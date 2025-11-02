@@ -1,9 +1,0 @@
-metrics_csv_multi:
-  - label: baseline
-    path: runs/baseline/log.csv
-  - label: scratch_100epoches
-    path: runs/scratch_100/log.csv
-  - label: pretrained_basic
-    path: runs/pretrained/log.csv
-  - label: pretrained_robust
-    path: runs/robust/log.csv
