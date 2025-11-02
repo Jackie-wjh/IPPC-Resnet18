@@ -1,5 +1,6 @@
 # Sports‑100 Image Classification (ResNet‑18)
 
+Dataset Link: https://www.kaggle.com/datasets/gpiosenka/sports-classification
 A reproducible PyTorch pipeline for **100‑class sports image classification** built on **ResNet‑18**.  
 The project supports configuration‑driven experiments, warm‑up + cosine LR scheduling, **AMP** mixed precision,
 and compact error analysis via a **worst‑K + other** confusion matrix.
