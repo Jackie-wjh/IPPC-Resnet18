@@ -1,0 +1,14 @@
+seed: 312
+data_root: data
+out_dir: runs/baseline
+batch_size: 64
+num_workers: 8
+pretrained: false
+strong_aug: true
+label_smoothing: 0.1
+dropout: 0.0
+lr: 3.0e-3
+weight_decay: 0.05
+epochs: 50
+warmup: 5
+amp: true
